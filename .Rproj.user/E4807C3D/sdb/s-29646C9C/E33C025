@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\\name{news}\n\\title{News for package \\pkg{news}}\n\n\\section{Version 4.2}{\n  \\subsection{Changes visible to user}{\n    \\itemize{\n        \\item item1.\n        \\item item2\n    }\n  }\n}",
+    "created" : 1494329648207.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2967264240",
+    "id" : "E33C025",
+    "lastKnownWriteTime" : 1494329694,
+    "last_content_update" : 1494329692191,
+    "path" : "F:/private/dev/R/Projects/news/inst/NEWS.Rd",
+    "project_path" : "inst/NEWS.Rd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
