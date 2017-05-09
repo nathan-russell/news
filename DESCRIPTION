@@ -1,11 +1,13 @@
 Package: news
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Exmaple
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R: person("Nathan", "Russell", email = "russell.nr2012@gmail.com",
+    role = c("aut", "cre"))
+Description: Not 
+    a
+    real
+    description.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
